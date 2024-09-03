@@ -1,0 +1,9 @@
+Read Order
+
+1. EventLoop.js
+2. MicrotaskQueue.js
+3. TimerQueue.js
+4. IOQueue.js
+5. IOPolling.js
+6. CheckQueue.js
+7. CloseQueue.js
